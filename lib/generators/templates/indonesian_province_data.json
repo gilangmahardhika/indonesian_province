@@ -1,0 +1,75 @@
+
+	[{
+		"name": "Nangroe Aceh Darussalam",
+		"cities": [
+		{
+			"name": "Kabupaten Aceh Barat"
+		},
+		{
+			"name": "Kabupaten Aceh Barat Daya"
+		}, 
+		{
+			"name": "Kabupaten Aceh Besar"
+		}, 
+		{
+			"name": "Kabupaten Aceh Jaya"
+		}, 
+		{
+			"name": "Kabupaten Aceh Selatan"
+		}, 
+		{
+			"name": "Kabupaten Aceh Singkil"
+		}, 
+		{
+			"name": "Kabupaten Aceh Tamiang"
+		}, 
+		{
+			"name": "Kabupaten Aceh Tengah"
+		}, 
+		{
+			"name": "Kabupaten Aceh Tenggara"
+		},
+		{
+			"name": "Kabupaten Aceh Timur"
+		}, 
+		{
+			"name": "Kabupaten Aceh Utara"
+		},
+		{
+			"name": "Kabupaten Bener Meriah"
+		},
+		{
+			"name": "Kabupaten Bireuen"
+		},
+		{
+			"name": "Kabupaten Gayo Lues"
+		},
+		{
+			"name": "Kabupaten Nagan Raya"
+		},
+		{
+			"name": "Kabupaten Pidie"
+		}, 
+		{
+			"name": "Kabupaten Pidie Jaya"
+		}, 
+		{
+			"name": "Kabupaten Simeulue"
+		}, 
+		{
+			"name": "Kota Banda Aceh"
+		}, 
+		{
+			"name": "Kota Langsa"
+		}, 
+		{
+			"name": "Kota Lhokseumawe"
+		}, 
+		{
+			"name": "Kota Sabang"
+		}, 
+		{
+			"name": "Kota Subulussalam"
+		}
+	] 
+}]
