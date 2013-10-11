@@ -1,6 +1,6 @@
 # IndonesianProvince
 
-TODO: Write a gem description
+List All Indonesian Provinces
 
 ## Installation
 
@@ -18,7 +18,24 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+### Rails 3.2.x
+
+	$ rails g indonesian_province
+
+It will creates 4 files
+
+	db/migrate/20131011065521_create_provinces_table.rb
+	db/migrate/20131011065522_create_cities_table.rb
+	app/model/province.rb
+	app/model/city.rb
+	lib/tasks/indonesian_province.rake
+	doc/indonesian_province_data.json
+
+then
+
+	$ rake db:migrate
+	$ rake indonesian_province:dump
+ 
 
 ## Contributing
 
