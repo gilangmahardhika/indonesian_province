@@ -72,4 +72,253 @@
 			"name": "Kota Subulussalam"
 		}
 	] 
+}],
+[{
+	"name": "Sumatera Utara",
+	"cities": [
+		{
+			"name": "Kabupaten Asahan"
+		},
+		{
+			"name": "Kabupaten Batubara"
+		},
+		{
+			"name": "Kabupaten Dairi"
+		},
+		{
+			"name": "Kabupaten Deli Serdang"
+		},
+		{
+			"name": "Kabupaten Humbang Hasundutan"
+		},
+		{
+			"name": "Kabupaten Karo"
+		},
+		{
+			"name": "Kabupaten Labuhanbatu"
+		},
+		{
+			"name": "Kabupaten Labuhanbatu Selatan"
+		},
+		{
+			"name": "Kabupaten Labuhanbatu Utara"
+		},
+		{
+			"name": "Kabupaten Langkat"
+		},
+		{
+			"name": "Kabupaten Mandailing Natal"
+		},
+		{
+			"name": "Kabupaten Nias"
+		},
+		{
+			"name": "Kabupaten Nias Barat"
+		},
+		{
+			"name": "Kabupaten Nias Selatan"
+		},
+		{
+			"name": "Kabupaten Nias Utara"
+		},
+		{
+			"name": "Kabupaten Padang Lawas"
+		},
+		{
+			"name": "Kabupaten Padang Lawas Utara"
+		},
+		{
+			"name": "Kabupaten Pakpak Bharat"
+		},
+		{
+			"name": "Kabupaten Samosir"
+		},
+		{
+			"name": "Kabupaten Serdang Bedagai"
+		},
+		{
+			"name": "Kabupaten Simalungun"
+		},
+		{
+			"name": "Kabupaten Tapanuli Selatan"
+		},
+		{
+			"name": "Kabupaten Tapanuli Tengah"
+		},
+		{
+			"name": "Kabupaten Tapanuli Utara"
+		},
+		{
+			"name": "Kabupaten Toba Samosir"
+		},
+		{
+			"name": "Kota Binjai"
+		},
+		{
+			"name": "Kota Gunungsitoli"
+		},
+		{
+			"name": "Kota Medan"
+		},
+		{
+			"name": "Kota Padangsidempuan"
+		},
+		{
+			"name": "Kota Pematangsiantar"
+		},
+		{
+			"name": "Kota Sibolga"
+		},
+		{
+			"name": "Kota Tanjungbalai"
+		},
+		{
+			"name": "Kota Medan"
+		},
+		{
+			"name": "Kota Tebing Tinggi"
+		},
+	]
+}],
+[{
+	"name": "Bengkulu",
+	"cities": [
+		{
+			"name": "Bengkulu Selatan"
+		},
+		{
+			"name": "Bengkulu Tengah"
+		},
+		{
+			"name": "Bengkulu Utara"
+		},
+
+		{ "name": "Kabupaten Kaur"},
+		{ "name": "Kabupaten Kepahiang"},
+		{ "name": "Kabupaten Lebong"},
+		{ "name": "Kabupaten Mukomuko"},
+		{ "name": "Kabupaten Rejang Lebong"},
+		{ "name": "Kabupaten Seluma"},
+		{ "name": "Kota Bengkulu"}
+	]
+}],
+[{
+	"name": "Jambi",
+	"cities": [
+		{ "name": "Kabupaten Bungo" },
+		{ "name": "Kabupaten Batanghari" },
+		{ "name": "Kabupaten Kerinci" },
+		{ "name": "Kabupaten Merangin" },
+		{ "name": "Kabupaten Muaro Jambi" },
+		{ "name": "Kabupaten Sarolangun" },
+		{ "name": "Kabupaten Tanjung Jabung Barat" },
+		{ "name": "Kabupaten Tanjung Jabung Timur" },
+		{ "name": "Kabupaten Tebo" },
+		{ "name": "Kota Jambi" },
+		{ "name": "Kota Sungai Penuh" }
+	]
+}],
+[{
+	"name": "Riau",
+	"cities": [
+		{ "name": "Kabupaten Bengkalis" },
+		{ "name": "Kabupaten Indragiri Hilir" },
+		{ "name": "Kabupaten Indragiri Hulu" },
+		{ "name": "Kabupaten Kampar" },
+		{ "name": "Kabupaten Kuantan Singingi" },
+		{ "name": "Kabupaten Pelalawan" },
+		{ "name": "Kabupaten Rokan Hilir" },
+		{ "name": "Kabupaten Rokan Hulu" },
+		{ "name": "Kabupaten Siak" },
+		{ "name": "Kabupaten Kepulauan Meranti" },
+		{ "name": "Kota Dumai" },
+		{ "name": "Kota Pekanbaru" }
+	]
+}],
+[{
+	"name": "Sumatera Barat",
+	"cities": [
+		{ "name": "Kabupaten Agam" },
+		{ "name": "Kabupaten Dharmasraya" },
+		{ "name": "Kabupaten Kepulauan Mentawai" },
+		{ "name": "Kabupaten Lima Puluh Kota" },
+		{ "name": "Kabupaten Padang Pariaman" },
+		{ "name": "Kabupaten Pasaman" },
+		{ "name": "Kabupaten Pasaman Barat" },
+		{ "name": "Kabupaten Pesisir Selatan" },
+		{ "name": "Kabupaten Sijunjung" },
+		{ "name": "Kabupaten Solok" },
+		{ "name": "Kabupaten Solok Selatan" },
+		{ "name": "Kabupaten Tanah Datar" },
+		{ "name": "Kota Bukittinggi" },
+		{ "name": "Kota Padang" },
+		{ "name": "Kota Padangpanjang" },
+		{ "name": "Kota Pariaman" },
+		{ "name": "Kota Payakumbuh" },
+		{ "name": "Kota Sawahlunto" },
+		{ "name": "Kota Solok" }
+	]
+}],
+[{
+	"name": "Sumatera Selatan",
+	"cities": [
+		{ "name": "Kabupaten Banyuasin" },
+		{ "name": "Kabupaten Empat Lawang" },
+		{ "name": "Kabupaten Lahat" },
+		{ "name": "Kabupaten Muara Enim" },
+		{ "name": "Kabupaten Musi Banyuasin" },
+		{ "name": "Kabupaten Musi Rawas" },
+		{ "name": "Kabupaten Ogan Ilir" },
+		{ "name": "Kabupaten Ogan Komering Ilir" },
+		{ "name": "Kabupaten Ogan Komering Ulu" },
+		{ "name": "Kabupaten Ogan Komering Ulu Selatan" },
+		{ "name": "Kabupaten Ogan Komering Ulu Timur" },
+		{ "name": "Kota Lubuklinggau" },
+		{ "name": "Kota Pagar Alam" },
+		{ "name": "Kota Palembang" },
+		{ "name": "Kota Prabumulih" }
+	]
+}],
+[{
+	"name": "Lampung",
+	"cities": [
+		{ "name": "Kabupaten Lampung Barat" },
+		{ "name": "Kabupaten Lampung Selatan" },
+		{ "name": "Kabupaten Lampung Tengah" },
+		{ "name": "Kabupaten Lampung Timur" },
+		{ "name": "Kabupaten Lampung Utara" },
+		{ "name": "Kabupaten Mesuji" },
+		{ "name": "Kabupaten Pesawaran" },
+		{ "name": "Kabupaten Pringsewu" },
+		{ "name": "Kabupaten Tanggamus" },
+		{ "name": "Kabupaten Tulang Bawang" },
+		{ "name": "Kabupaten Tulang Bawang Barat" },
+		{ "name": "Kabupaten Way Kanan" },
+		{ "name": "Kota Bandar Lampung" },
+		{ "name": "Kota Metro" }
+	]
+}],
+[{
+	"name": "Kepulauan Bangka Belitung",
+	"cities": [
+		{ "name": "Kabupaten Bangka" },
+		{ "name": "Kabupaten Bangka Barat" },
+		{ "name": "Kabupaten Bangka Selatan" },
+		{ "name": "Kabupaten Bangka Tengah" },
+		{ "name": "Kabupaten Belitung" },
+		{ "name": "Kabupaten Belitung Timur" },
+		{ "name": "Kota Pangkal Pinang" }
+	]
+}],
+[{
+	"name": "Kepulauan Riau",
+	"cities": [
+		{ "name": "Kabupaten Bintan" },
+		{ "name": "Kabupaten Karimun" },
+		{ "name": "Kabupaten Kepulauan Anambas" },
+		{ "name": "Kabupaten Lingga" },
+		{ "name": "Kabupaten Natuna" },
+		{ "name": "Kota Batam" },
+		{ "name": "Kota Tanjung Pinang" }
+	]
 }]
