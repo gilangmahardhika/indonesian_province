@@ -22,7 +22,7 @@ Or install it yourself as:
 
 	$ rails g indonesian_province
 
-It will creates 4 files
+It will creates 5 files
 
 	db/migrate/20131011065521_create_provinces_table.rb
 	db/migrate/20131011065522_create_cities_table.rb
