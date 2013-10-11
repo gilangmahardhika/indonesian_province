@@ -522,6 +522,81 @@
 		{ "name": "Kabupaten Sumba Timur" },
 		{ "name": "Kabupaten Timor Tengah Selatan" },
 		{ "name": "Kabupaten Timor Tengah Utara" },
-		{ "name": "Kota Kupang" }{ "name": "
+		{ "name": "Kota Kupang" }
 	]
-}]
+}],
+[{
+	"name": "Kalimantan Barat",
+	"cities": [	
+		{ "name": "Kabupaten Bengkayang" },
+		{ "name": "Kabupaten Kapuas Hulu" },
+		{ "name": "Kabupaten Kayong Utara" },
+		{ "name": "Kabupaten Ketapang" },
+		{ "name": "Kabupaten Kubu Raya" },
+		{ "name": "Kabupaten Landak" },
+		{ "name": "Kabupaten Melawi" },
+		{ "name": "Kabupaten Pontianak" },
+		{ "name": "Kabupaten Sambas" },
+		{ "name": "Kabupaten Sanggau" },
+		{ "name": "Kabupaten Sekadau" },
+		{ "name": "Kabupaten Sintang" },
+		{ "name": "Kota Pontianak" },
+		{ "name": "Kota Singkawang" }
+	]
+}],
+[{
+	"name": "Kalimantan Selatan",
+	"cities":[
+		{ "name": "Kabupaten Balangan" },
+		{ "name": "Kabupaten Banjar" },
+		{ "name": "Kabupaten Barito Kuala" },
+		{ "name": "Kabupaten Hulu Sungai Selatan" },
+		{ "name": "Kabupaten Hulu Sungai Tengah" },
+		{ "name": "Kabupaten Hulu Sungai Utara" },
+		{ "name": "Kabupaten Kotabaru" },
+		{ "name": "Kabupaten Tabalong" },
+		{ "name": "Kabupaten Tanah Bumbu" },
+		{ "name": "Kabupaten Tanah Laut" },
+		{ "name": "Kabupaten Tapin" },
+		{ "name": "Kota Banjarbaru" },
+		{ "name": "Kota Banjarmasin" }
+	]
+}],
+[{
+	"name": "Kalimantan Tengah",
+	"cities": [
+		{ "name": "Kabupaten Barito Selatan" },
+		{ "name": "Kabupaten Barito Timur" },
+		{ "name": "Kabupaten Barito Utara" },
+		{ "name": "Kabupaten Gunung Mas" },
+		{ "name": "Kabupaten Kapuas" },
+		{ "name": "Kabupaten Katingan" },
+		{ "name": "Kabupaten Kotawaringin Barat" },
+		{ "name": "Kabupaten Kotawaringin Timur" },
+		{ "name": "Kabupaten Lamandau" },
+		{ "name": "Kabupaten Murung Raya" },
+		{ "name": "Kabupaten Pulang Pisau" },
+		{ "name": "Kabupaten Sukamara" },
+		{ "name": "Kabupaten Seruyan" },
+		{ "name": "Kota Palangka Raya" }
+	]
+}],
+[{
+	"name": "Kalimantan Timur",
+	"cities": [
+		{ "name": "Kabupaten Berau" },
+		{ "name": "Kabupaten Bulungan" },
+		{ "name": "Kabupaten Kutai Barat" },
+		{ "name": "Kabupaten Kutai Kartanegara" },
+		{ "name": "Kabupaten Kutai Timur" },
+		{ "name": "Kabupaten Malinau" },
+		{ "name": "Kabupaten Nunukan" },
+		{ "name": "Kabupaten Paser" },
+		{ "name": "Kabupaten Penajam Paser Utara" },
+		{ "name": "Kabupaten Tana Tidung" },
+		{ "name": "Kota Balikpapan" },
+		{ "name": "Kota Bontang" },
+		{ "name": "Kota Samarinda" },
+		{ "name": "Kota Tarakan" }{ "name": "
+	]
+}],
