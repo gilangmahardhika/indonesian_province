@@ -1,7 +1,6 @@
-
-	[{
-		"name": "Nangroe Aceh Darussalam",
-		"cities": [
+[{
+	"name": "Nangroe Aceh Darussalam",
+	"cities": [
 		{ "name": "Kabupaten Aceh Barat" },
 		{ "name": "Kabupaten Aceh Barat Daya" }, 
 		{ "name": "Kabupaten Aceh Besar" }, 
@@ -26,8 +25,8 @@
 		{ "name": "Kota Sabang" }, 
 		{ "name": "Kota Subulussalam" }
 	] 
-}],
-[{
+},
+{
 	"name": "Sumatera Utara",
 	"cities": [
 		{ "name": "Kabupaten Asahan" },
@@ -63,10 +62,10 @@
 		{ "name": "Kota Sibolga" },
 		{ "name": "Kota Tanjungbalai" },
 		{ "name": "Kota Medan" },
-		{ "name": "Kota Tebing Tinggi" },
+		{ "name": "Kota Tebing Tinggi" }
 	]
-}],
-[{
+},
+{
 	"name": "Bengkulu",
 	"cities": [
 		{ "name": "Bengkulu Selatan" },
@@ -80,8 +79,8 @@
 		{ "name": "Kabupaten Seluma" },
 		{ "name": "Kota Bengkulu" }
 	]
-}],
-[{
+},
+{
 	"name": "Jambi",
 	"cities": [
 		{ "name": "Kabupaten Bungo" },
@@ -96,8 +95,8 @@
 		{ "name": "Kota Jambi" },
 		{ "name": "Kota Sungai Penuh" }
 	]
-}],
-[{
+},
+{
 	"name": "Riau",
 	"cities": [
 		{ "name": "Kabupaten Bengkalis" },
@@ -113,8 +112,8 @@
 		{ "name": "Kota Dumai" },
 		{ "name": "Kota Pekanbaru" }
 	]
-}],
-[{
+},
+{
 	"name": "Sumatera Barat",
 	"cities": [
 		{ "name": "Kabupaten Agam" },
@@ -137,8 +136,8 @@
 		{ "name": "Kota Sawahlunto" },
 		{ "name": "Kota Solok" }
 	]
-}],
-[{
+},
+{
 	"name": "Sumatera Selatan",
 	"cities": [
 		{ "name": "Kabupaten Banyuasin" },
@@ -157,8 +156,8 @@
 		{ "name": "Kota Palembang" },
 		{ "name": "Kota Prabumulih" }
 	]
-}],
-[{
+},
+{
 	"name": "Lampung",
 	"cities": [
 		{ "name": "Kabupaten Lampung Barat" },
@@ -176,8 +175,8 @@
 		{ "name": "Kota Bandar Lampung" },
 		{ "name": "Kota Metro" }
 	]
-}],
-[{
+},
+{
 	"name": "Kepulauan Bangka Belitung",
 	"cities": [
 		{ "name": "Kabupaten Bangka" },
@@ -188,8 +187,8 @@
 		{ "name": "Kabupaten Belitung Timur" },
 		{ "name": "Kota Pangkal Pinang" }
 	]
-}],
-[{
+},
+{
 	"name": "Kepulauan Riau",
 	"cities": [
 		{ "name": "Kabupaten Bintan" },
@@ -200,8 +199,8 @@
 		{ "name": "Kota Batam" },
 		{ "name": "Kota Tanjung Pinang" }
 	]
-}],
-[{
+},
+{
 	"name": "Banten",
 	"cities": [
 		{ "name": "Kabupaten Tangerang" },
@@ -213,8 +212,8 @@
 		{ "name": "Kota Cilegon" },
 		{ "name": "Kota Tangerang Selatan" }
 	]
-}],
-[{
+},
+{
 	"name": "Jawa Barat",
 	"cities": [
 		{ "name": "Kabupaten Bandung" },
@@ -244,8 +243,8 @@
 		{ "name": "Kota Sukabumi" },
 		{ "name": "Kota Tasikmalaya" }
 	]
-}],
-[{
+},
+{
 	"name": "DKI Jakarta",
 	"cities": [
 		{ "name": "Kepulauan Seribu" },
@@ -255,8 +254,8 @@
 		{ "name": "Jakarta Timur" },
 		{ "name": "Jakarta Utara" }
 	]
-}],
-[{
+},
+{
 	"name": "Jawa Tengah",
 	"cities": [
 		{ "name": "Kabupaten Banjarnegara" },
@@ -295,8 +294,8 @@
 		{ "name": "Kota Surakarta" },
 		{ "name": "Kota Tegal" }
 	]
-}],
-[{
+},
+{
 	"name": "Jawa Timur",
 	"cities": [
 		{ "name": "Kabupaten Bangkalan" },
@@ -338,8 +337,8 @@
 		{ "name": "Kota Probolinggo" },
 		{ "name": "Kota Surabaya" }
 	]
-}],
-[{
+},
+{
 	"name": "Daerah Istimewa Yogyakarta",
 	"cities": [
 		{ "name": "Kabupaten Bantul" },
@@ -348,8 +347,8 @@
 		{ "name": "Kabupaten Sleman" },
 		{ "name": "Kota Yogyakarta" }
 	]
-}],
-[{
+},
+{
 	"name": "Bali",
 	"cities": [
 		{ "name": "Kabupaten Badung" },
@@ -362,8 +361,8 @@
 		{ "name": "Kabupaten Tabanan" },
 		{ "name": "Kota Denpasar" }
 	]
-}],
-[{
+},
+{
 	"name": "Nusa Tenggara Barat",
 	"cities": [
 		{ "name": "Kabupaten Bima" },
@@ -377,8 +376,8 @@
 		{ "name": "Kota Bima" },
 		{ "name": "Kota Mataram" }
 	]
-}],
-[{
+},
+{
 	"name": "Nusa Tenggara Timur",
 	"cities": [
 		{ "name": "Kabupaten Alor" },
@@ -403,8 +402,8 @@
 		{ "name": "Kabupaten Timor Tengah Utara" },
 		{ "name": "Kota Kupang" }
 	]
-}],
-[{
+},
+{
 	"name": "Kalimantan Barat",
 	"cities": [	
 		{ "name": "Kabupaten Bengkayang" },
@@ -422,8 +421,8 @@
 		{ "name": "Kota Pontianak" },
 		{ "name": "Kota Singkawang" }
 	]
-}],
-[{
+},
+{
 	"name": "Kalimantan Selatan",
 	"cities":[
 		{ "name": "Kabupaten Balangan" },
@@ -440,8 +439,8 @@
 		{ "name": "Kota Banjarbaru" },
 		{ "name": "Kota Banjarmasin" }
 	]
-}],
-[{
+},
+{
 	"name": "Kalimantan Tengah",
 	"cities": [
 		{ "name": "Kabupaten Barito Selatan" },
@@ -459,8 +458,8 @@
 		{ "name": "Kabupaten Seruyan" },
 		{ "name": "Kota Palangka Raya" }
 	]
-}],
-[{
+},
+{
 	"name": "Kalimantan Timur",
 	"cities": [
 		{ "name": "Kabupaten Berau" },
@@ -478,8 +477,8 @@
 		{ "name": "Kota Samarinda" },
 		{ "name": "Kota Tarakan" }
 	]
-}],
-[{
+},
+{
 	"name": "Gorontalo",
 	"cities": [	
 		{ "name": "Kabupaten Boalemo" },
@@ -489,8 +488,8 @@
 		{ "name": "Kabupaten Pohuwato" },
 		{ "name": "Kota Gorontalo" }
 	]
-}],
-[{
+},
+{
 	"name": "Sulawesi Selatan",
 	"cities": [	
 		{ "name": "Kabupaten Bantaeng" },
@@ -518,8 +517,8 @@
 		{ "name": "Kota Palopo" },
 		{ "name": "Kota Parepare" }
 	]
-}],
-[{
+},
+{
 	"name": "Sulawesi Tenggara",
 	"cities": [
 		{ "name": "Kabupaten Bombana" },
@@ -535,8 +534,8 @@
 		{ "name": "Kota Bau-Bau" },
 		{ "name": "Kota Kendari" }
 	]
-}],
-[{
+},
+{
 	"name": "Sulawesi Tengah",
 	"cities": [
 		{ "name": "Kabupaten Banggai" },
@@ -551,8 +550,8 @@
 		{ "name": "Kabupaten Sigi" },
 		{ "name": "Kota Palu" }
 	]
-}],
-[{
+},
+{
 	"name": "Sulawesi Utara",
 	"cities": [
 		{ "name": "Kabupaten Bolaang Mongondow" },
@@ -571,8 +570,8 @@
 		{ "name": "Kota Manado" },
 		{ "name": "Kota Tomohon" }
 	]
-}],
-[{
+},
+{
 	"name": "Sulawesi Barat",
 	"cities": [
 		{ "name": "Kabupaten Majene" },
@@ -581,8 +580,8 @@
 		{ "name": "Kabupaten Mamuju Utara" },
 		{ "name": "Kabupaten Polewali Mandar" }
 	]
-}],
-[{
+},
+{
 	"name": "Maluku",
 	"cities": [ 
 		{ "name": "Kabupaten Buru" },
@@ -597,8 +596,8 @@
 		{ "name": "Kota Ambon" },
 		{ "name": "Kota Tual" }
 	]
-}],
-[{
+},
+{
 	"name": "Maluku Utara",
 	"cities": [
 		{ "name": "Kabupaten Halmahera Barat" },
@@ -611,8 +610,8 @@
 		{ "name": "Kota Ternate" },
 		{ "name": "Kota Tidore Kepulauan" }
 	]
-}],
-[{
+},
+{
 	"name": "Papua",
 	"cities": [
 		{ "name": "Kabupaten Asmat" },
@@ -645,20 +644,20 @@
 		{ "name": "Kabupaten Yalimo" },
 		{ "name": "Kota Jayapura" }
 	]
-}],
-[{
- "name": "Papua Barat",
- "cities": [
-	{ "name": "Kabupaten Fakfak" },
-	{ "name": "Kabupaten Kaimana" },
-	{ "name": "Kabupaten Manokwari" },
-	{ "name": "Kabupaten Maybrat" },
-	{ "name": "Kabupaten Raja Ampat" },
-	{ "name": "Kabupaten Sorong" },
-	{ "name": "Kabupaten Sorong Selatan" },
-	{ "name": "Kabupaten Tambrauw" },
-	{ "name": "Kabupaten Teluk Bintuni" },
-	{ "name": "Kabupaten Teluk Wondama" },
-	{ "name": "Kota Sorong" }
+},
+{
+ 	"name": "Papua Barat",
+	"cities": [
+		{ "name": "Kabupaten Fakfak" },
+		{ "name": "Kabupaten Kaimana" },
+		{ "name": "Kabupaten Manokwari" },
+		{ "name": "Kabupaten Maybrat" },
+		{ "name": "Kabupaten Raja Ampat" },
+		{ "name": "Kabupaten Sorong" },
+		{ "name": "Kabupaten Sorong Selatan" },
+		{ "name": "Kabupaten Tambrauw" },
+		{ "name": "Kabupaten Teluk Bintuni" },
+		{ "name": "Kabupaten Teluk Wondama" },
+		{ "name": "Kota Sorong" }
 	]
 }]
